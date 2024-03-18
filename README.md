@@ -19,7 +19,7 @@ functions can be used to display the data on a map and Streamlit can be used
 to create a user-friendly interface with multiple dropdown options for users to
 select different facts and figures to display.
   5. Data retrieval: Use the "psycopg2-connector-python" library to connect to the
-MySQL database and fetch the data into a Pandas dataframe. Use the data in
+POSTGRESQL database and fetch the data into a Pandas dataframe. Use the data in
 the dataframe to update the dashboard dynamically.
   6. Deployment: Ensure the solution is secure, efficient, and user-friendly. Test
 the solution thoroughly and deploy the dashboard publicly, making it
@@ -29,7 +29,7 @@ accessible to users.
 extract data from a repository and pre-process the data using Python libraries
 such as Pandas.
   2. Database management: Use a relational database such
-as MySQL to store data and retrieve it efficiently for analysis and visualization.
+as POSTGRESQL to store data and retrieve it efficiently for analysis and visualization.
   3. Visualization and dashboard creation: To use libraries
 such as Streamlit and Plotly to create interactive and visually appealing
 dashboards for data visualization.
