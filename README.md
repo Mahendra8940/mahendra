@@ -5,7 +5,7 @@ various metrics and statistics. The goal is to extract this data and process it 
 insights and information that can be visualized in a user-friendly manner.
 # Approach:
   1. Data extraction: Clone the Github using scripting to fetch the data from the
-Phonepe pulse Github repository.
+Phonepe pulse Github repository and convert it in a suitable format as pandas.
   2. Data transformation: Use a scripting language such as Python, along with
 libraries such as Pandas, to manipulate and pre-process the data. This may
 include cleaning the data, handling missing values, and transforming the data
